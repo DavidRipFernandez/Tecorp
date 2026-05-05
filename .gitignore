@@ -1,0 +1,20 @@
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docsettings
+
+# .NET
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# React / Node
+node_modules/
+.env
+build/
+dist/
